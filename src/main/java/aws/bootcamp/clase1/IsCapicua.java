@@ -1,4 +1,4 @@
-package aws.bootcamp;
+package aws.bootcamp.clase1;
 
 import javax.swing.*;
 
