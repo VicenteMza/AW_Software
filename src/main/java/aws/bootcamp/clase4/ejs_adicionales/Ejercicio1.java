@@ -1,4 +1,4 @@
-package aws.bootcamp.clase4.ejs_adicioanles;
+package aws.bootcamp.clase4.ejs_adicionales;
 
 import java.util.List;
 import java.util.Random;
