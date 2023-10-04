@@ -20,7 +20,7 @@ Clase III - Ejercicios:
 
     Se puede implementar recursivo e iterativo.  Deseable contar con metodo que devuelva la lista de numeros que representan la suma.  Comparar performance de ambas implementaciones y sacar conclusiones.
  */
-//TODO Sin terminar estoy haciendo pruebas
+//TODO Sin terminar estoy haciendo pruebas: : Seguir investigando, todavia no lo entiendo
 public class Main implements Runnable{
     String mensaje;
     Main(String mensaje) {

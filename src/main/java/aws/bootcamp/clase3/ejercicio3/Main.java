@@ -4,7 +4,7 @@ Clase III - Ejercicios:
 3 - Implementar las clases Pila y Fila sin utilizar Collections
 */
 public class Main {
-    //TODO terminar de implementar este ejercicio
+    //TODO terminar de implementar este ejercicio: Seguir investigando, todavia no lo entiendo
     public static void main(String[] args) {
         // Prueba de Pila de enteros
         Pila<Integer> pilaDeEnteros = new Pila<>(Integer.class);
