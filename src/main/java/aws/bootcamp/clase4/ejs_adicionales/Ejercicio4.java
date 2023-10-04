@@ -27,7 +27,6 @@ import java.util.stream.Collectors;
 
         3 letras ....
 */
-
 /**
  * Esta dependencia se utiliza para conectarse a la página web
  * "<dependency>
@@ -36,10 +35,10 @@ import java.util.stream.Collectors;
  * <version>1.16.1</version>
  * </dependency>";
  */
-public class ProcessText {
+public class Ejercicio4 {
     public static void main(String[] args) throws IOException {
         String url = "https://vicentemza.github.io/CV_Web/";
-        ProcessText process = new ProcessText();
+        Ejercicio4 process = new Ejercicio4();
         process.start(url);
     }
 
